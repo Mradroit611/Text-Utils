@@ -1,0 +1,14 @@
+.box{
+    border: 2px solid black;
+}
+.heading{
+    background-color: white;
+    color: black;
+    border: 2px solid black;
+    border-left: none;
+    border-top: none;
+    border-right: none;
+}
+details{
+    padding: 10px;
+}
